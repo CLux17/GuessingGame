@@ -10,6 +10,11 @@ namespace GuessingGame
 
             Console.WriteLine(message);
 
+            string farewell = "I cant let you do that dave";
+
+            Console.WriteLine(farewell);
+
+
 
 
 
